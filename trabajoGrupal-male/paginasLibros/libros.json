@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "titulo": "Peter Pan",
+        "autor": "J. M. Barrie",
+        "descripcion": "Es una novela que narra las aventuras de un niño que puede volar y nunca envejece, llevándote al mágico mundo de Nunca Jamás junto a Wendy, John y Michael Darling.",
+        "categoria": "infantil",
+        "url": "https://drive.google.com/file/d/1sxBFFyhATApp9sTjRIAyF4MZ8gUmDtIc/preview"
+    },
+    {
+        "id": 2,
+        "titulo": "Heidi",
+        "autor": "Johanna Spyri",
+        "descripcion": "Es un clásico de la literatura infantil que sigue las vivencias de una niña huérfana llamada Heidi, quien encuentra consuelo y alegría en las montañas suizas con su abuelo y su amigo Pedro.",
+        "categoria": "infantil",
+        "url": "https://drive.google.com/file/d/11pEyDjvx5ZcXkJcRS0Uf96RhX0cpijoh/preview"
+    },
+    {
+        "id": 3,
+        "titulo": "Caperucita Roja",
+        "autor": "Charles Perrault",
+        "descripcion": "Relata la historia de una niña que lleva una capa roja y se encuentra con un lobo mientras va a visitar a su abuela enferma, dando lugar a una lección sobre la importancia de la precaución y la obediencia.",
+        "categoria": "infantil",
+        "url": "https://drive.google.com/file/d/11xFxgRnaMPMSpM5kqZk5XfTGX8G2LfzW/preview"
+    },
+    {
+        "id": 4,
+        "titulo": "El Principito",
+        "autor": "Antoine De Saint-Exupéry",
+        "descripcion": "Narra el viaje de un aviador que conoce a un pequeño príncipe proveniente de otro planeta. A través de sus conversaciones, el libro explora temas profundos como la amistad, el amor y el significado de la vida, con una prosa poética y conmovedora que encanta a lectores de todas las edades.",
+        "categoria": "infantil",
+        "url": "https://drive.google.com/file/d/11gsD7yoZpo3XCBMuQ8INSUzTxsZqxESP/preview"
+    },
+    {
+        "id": 5,
+        "titulo": "Ana de Las Tejas Verdes",
+        "autor": "L. M. Montgomery",
+        "descripcion": "Una niña huérfana de cabello rojo que es adoptada por los hermanos Cuthbert y llevada a vivir a Avonlea, un encantador pueblo en la Isla del Príncipe Eduardo. A través de las travesuras y aventuras de Ana, la novela celebra la imaginación, la amistad y el amor por la naturaleza.",
+        "categoria": "infantil",
+        "url": "https://drive.google.com/file/d/11d9hXE5jmNiCl3eeMqmKH905SMF9726J/preview"
+    },
+    {
+        "id": 6,
+        "titulo": "Alicia en el País de las Maravillas",
+        "autor": "Lewis Carroll",
+        "descripcion": "Alicia, una niña curiosa que cae por una madriguera de conejo y se encuentra en un mundo surrealista lleno de personajes extravagantes y situaciones absurdas. A lo largo de su viaje, Alicia cuestiona la lógica y las convenciones sociales, explorando temas como la identidad, el crecimiento y la imaginación.",
+        "categoria": "infantil",
+        "url": "https://drive.google.com/file/d/11cYjN2msoLA2fVsA2QmqXSlja3Tbr533/preview"
+    },
+
+    {
+        "id": 7,
+        "titulo": "Orgullo y Prejuicio",
+        "autor": "Jane Austen",
+        "descripcion": "La trama se centra en las complejas relaciones sociales y románticas de Elizabeth con el orgulloso y enigmático Sr. Darcy. La obra aborda temas como la clase social, el matrimonio por conveniencia y el poder del amor verdadero",
+        "categoria": "juvenil",
+        "url": "https://drive.google.com/file/d/11_WETUM32TIeIIN0eMXPxL9mEn3HB4KR/preview"
+    },
+    {
+        "id": 8,
+        "titulo": "Las Cronica de Narnia",
+        "autor": "C. S. Lewis",
+        "descripcion": "Narra la historia de cuatro hermanos que descubren un mundo mágico llamado Narnia a través de un armario mágico. A lo largo de la serie, los niños vivirán aventuras emocionantes y peligrosas, enfrentándose a poderosos enemigos y conociendo a seres extraordinarios como el león Aslan, mientras exploran temas como la lucha entre el bien y el mal, la redención y el poder de la fe.",
+        "categoria": "juvenil",
+        "url": "https://drive.google.com/file/d/11kYDRvNkskqID0133mXC7NS-aLDFdINL/preview"
+    },
+    {
+        "id": 9,
+        "titulo": "Mujercitas",
+        "autor": "Louisa May Alcott",
+        "descripcion": "La historia muestra sus luchas y triunfos mientras crecen y enfrentan desafíos como la pobreza, la independencia personal y el amor. A través de las experiencias de las hermanas, la novela celebra la amistad, la familia y el empoderamiento femenino.",
+        "categoria": "juvenil",
+        "url": "https://drive.google.com/file/d/11beQDm67I9ZimskdLILc_jR8ND8ZcXhU/preview"
+    },
+    {
+        "id": 10,
+        "titulo": "El sabueso de los Baskerville",
+        "autor": "Arthur Conan Doyle",
+        "descripcion": "La trama sigue a Holmes y Watson mientras investigan el misterioso asesinato de Sir Charles Baskerville en los sombríos páramos de Dartmoor. La historia está llena de giros inesperados, intrigas y una atmósfera de suspense.",
+        "categoria": "juvenil",
+        "url": "https://drive.google.com/file/d/11tJGvxjrBz6YW2mc4H5iPhHgNaHW-DOA/preview"
+    },
+    {
+        "id": 11,
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "descripcion": "Después de que un talentoso pintor llamado Basil Hallward crea un retrato suyo, Dorian hace un pacto con el diablo para que el retrato envejezca en su lugar, mientras él permanece eternamente joven. A medida que Dorian se sumerge en una vida de hedonismo y excesos, el retrato refleja su decadencia moral y su depravación, mientras él mismo permanece físicamente inalterado. La novela explora temas como la vanidad, la belleza, la moralidad y las consecuencias de nuestros actos.",
+        "categoria": "juvenil",
+        "url": "https://drive.google.com/file/d/11eeaef6BqobXK7pVyWLxd02yylW4gGuF/preview"
+    },
+    {
+        "id": 12,
+        "titulo": "Don Quijote",
+        "autor": "Miguel de Cervantes Saavreda",
+        "descripcion": "Alonso Quijano, un hidalgo que, tras leer demasiados libros de caballería, decide convertirse en un caballero andante bajo el nombre de Don Quijote. Acompañado por su fiel escudero Sancho Panza, emprende un viaje lleno de episodios cómicos y reflexiones sobre la realidad y la ficción, la locura y la cordura, la idealización y la desilusión.",
+        "categoria": "juvenil",
+        "url": " https://drive.google.com/file/d/1h683uu8-sQO0rArN4CBlBNkDwdu_3fpO/preview"
+    },
+
+    {
+        "id": 13,
+        "titulo": "Frankenstein",
+        "autor": "Mary W. Shelley",
+        "descripcion": "Después de años de trabajo, Victor logra dar vida a una criatura, pero su creación resulta ser un ser de aspecto horrendo y rechazado por la sociedad. La criatura, abandonada por su creador y enfrentada al rechazo y la soledad, busca venganza contra Victor, desencadenando una serie de tragedias. ",
+        "categoria": "adulto",
+        "url": "https://drive.google.com/file/d/11mubs8avLRubaj5lSQcmXst96sQenb7Y/preview"
+    },
+    {
+        "id": 14,
+        "titulo": "El tiempo Recobrado",
+        "autor": "Marcel Proust",
+        "descripcion": "El Tiempo Recobrado es la última parte de la monumental obra de Marcel Proust, 'En busca del tiempo perdido'. En esta parte, el narrador, ya adulto y reflexivo, rememora su juventud y su proceso de maduración a través de una serie de recuerdos y reflexiones. ",
+        "categoria": "adulto",
+        "url": "https://drive.google.com/file/d/11nwe9e-j2nAL9v3FFQrdqTQMbWPgI3ZV/preview"
+    },
+    {
+        "id": 15,
+        "titulo": "Montecristo",
+        "autor": "Marcel Proust",
+        "descripcion": "Edmond Dantès, un joven marinero injustamente encarcelado en el Castillo de If. Después de años de cautiverio, Dantès escapa y descubre un tesoro en la isla de Montecristo, lo que le permite llevar a cabo su venganza contra aquellos que lo traicionaron. Adoptando la identidad del Conde de Montecristo, Dantès elabora un elaborado plan para destruir a sus enemigos y restaurar su honor.",
+        "categoria": "adulto",
+        "url": "https://drive.google.com/file/d/11fK-GOfIVgq4831OFWuIfbP90xEZ1qAj/preview"
+    },
+    {
+        "id": 16,
+        "titulo": "Crimen y Castigo",
+        "autor": "Fedor Mikhaïlovitch Dostoïevski",
+        "descripcion": "Rodion Raskólnikov, un estudiante pobre y desesperado que comete un asesinato por motivos aparentemente altruistas. A medida que lidia con las consecuencias de su crimen, Raskólnikov se sumerge en un conflicto interno entre su conciencia y su racionalización justificativa del acto.",
+        "categoria": "adulto",
+        "url": "https://drive.google.com/file/d/11RLLYx1vr06YhUuzSkdujycnUqDuWzBf/preview"
+    },
+    {
+        "id": 17,
+        "titulo": "Bartleby",
+        "autor": "Herman Melville",
+        "descripcion": "Un abogado en la ciudad de Nueva York que contrata a un nuevo empleado llamado Bartleby. Aunque inicialmente eficiente, Bartleby pronto se niega a realizar cualquier tarea que no sea copiar documentos, respondiendo siempre con la frase 'preferiría no hacerlo'. Su actitud pasiva y su negativa constante llevan al abogado a un estado de desconcierto y frustración.",
+        "categoria": "adulto",
+        "url": "https://drive.google.com/file/d/11kJPW1H2WJ2IxH8l1CmsdEeQdYp2ySaG/preview"
+    },
+    {
+        "id": 18,
+        "titulo": "Al Faro",
+        "autor": "Virginia Woolf",
+        "descripcion": "Clarissa Dalloway, una mujer de la alta sociedad londinense, durante un solo día mientras se prepara para una fiesta en su casa. A través de una técnica narrativa innovadora que incluye monólogos interiores y saltos temporales, Woolf explora las complejidades de la mente humana, los recuerdos y las relaciones interpersonales.",
+        "categoria": "adulto",
+        "url": "https://drive.google.com/file/d/11yq51EphPWUmolonWfUzLttNO5arfHgj/preview"
+    }
+]

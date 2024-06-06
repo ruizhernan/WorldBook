@@ -1,0 +1,26 @@
+a{
+    text-decoration:none;
+} 
+body {
+    overflow-x: hidden;
+    margin-bottom: 0;
+    padding: 0;
+}
+/* MENU */
+.navbar-custom {
+    background-color: #29353c; 
+}
+.navbar-nav {
+    font-size: 25px; 
+    font-family: "IBM Plex Serif", serif;
+}
+.navbar-nav .nav-link {
+    color: white; 
+    margin: 0 15px; 
+}
+
+.custom-toggler-icon {
+    color: #ffffff; /* Cambia el color del icono hamburguesa */
+    border-color: #ffffff;
+}
+/* CIERRA MENU */
