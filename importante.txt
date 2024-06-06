@@ -1,0 +1,1 @@
+Para abrir las páginas de los libros, instalar la extensión Live Server y abrirlos con esta
